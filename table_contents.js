@@ -8,4 +8,5 @@
     7. Knapsack Algorithm.
     8. Huffman Coding.
     9. Prim's Algorithm.
+    10. Dial's Algorithm.
 */
